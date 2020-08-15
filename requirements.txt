@@ -1,0 +1,4 @@
+string
+random
+colores
+time
