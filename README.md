@@ -13,7 +13,7 @@ Using python3
 You must download the project first
 
 ```
-git clone https://github.com/t3chmyth/matrix.git
+git clone https://github.com/T3CHMYTH/python3-matrix
 
 ```
 
