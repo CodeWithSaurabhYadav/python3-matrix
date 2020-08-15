@@ -2,7 +2,7 @@
 This python project allows simulate a Matrix style screen. You could configure characters used or even the speed of
 the effects.
 
-##Where it works?
+## Where it works?
 It can work on following platforms
 1. Termux
 2. Any linux os
@@ -14,7 +14,8 @@ But only on the cli mode...
 ## How it works?
 It completely works on terminal and terminal emulators
 Using python3
-   ## How to install?
+
+## How to install?
 You must download the project first
 
 ```
@@ -51,3 +52,6 @@ To stop the Matrix
 Ctrl + c
 
 ```
+## Images
+
+![](Images/termux-screen-short.jpg)
