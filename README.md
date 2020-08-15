@@ -55,3 +55,4 @@ Ctrl + c
 ## Images
 
 ![](Images/termux-screen-short.jpg)
+![](Images/termux-screenshort-2.jpg)
