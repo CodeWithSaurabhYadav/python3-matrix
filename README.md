@@ -53,6 +53,7 @@ Ctrl + c
 
 ```
 ## Images
-
+ScreenShort 1
 ![](Images/termux-screen-short.jpg)
+ScreemShort 2
 ![](Images/termux-screenshot-2.jpg)
