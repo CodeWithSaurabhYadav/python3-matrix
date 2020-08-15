@@ -1,3 +1,4 @@
+   ## What it is?
 This python project allows simulate a Matrix style screen. You could configure characters used or even the speed of
 the effects.
 #Where it works?
@@ -6,6 +7,9 @@ It can work on following platforms
 2. Any linux os
 
    ## How it works?
+It completely works on terminal and terminal emulators
+Using python3
+   ## How to install?
 You must download the project first
 
 ```
