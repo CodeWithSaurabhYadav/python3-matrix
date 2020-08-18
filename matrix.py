@@ -190,5 +190,6 @@ if __name__ == "__main__":
             pass
         finally:
             print ("\n")
+            os.system("clear")
             exit()
 
