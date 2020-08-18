@@ -182,5 +182,11 @@ def welcome():
     matrix_color()
 
 if __name__ == "__main__":
-    welcome()
+    while True:
+        try:
+            welcome()
+        except KeyboardInterrupt:
+            pass
+        finally:
+            exit()
 
