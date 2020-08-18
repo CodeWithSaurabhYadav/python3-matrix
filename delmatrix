@@ -2,4 +2,4 @@ rm -rf $PREFIX/share/python3-matrix
 rm -rf $PREFIX/bin/delmatrix
 rm -rf $PREFIX/bin/matrix
 printf "\e[3;41mMATRIX IS SUCESSFULLY REMOVED\e[0m\n"
-printf "\e[3;31m\tSEE YOU AGAIN\e[0m/n"
+printf "\e[3;31m\tSEE YOU AGAIN\e[0m\n"
