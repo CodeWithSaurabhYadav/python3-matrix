@@ -14,6 +14,9 @@ It completely works on terminal and terminal emulators
 Using python3
 
 ## System Install
+NOTE - 
+This works only on the linux system
+.
 You can even install it on your system
 
 ```
@@ -38,6 +41,12 @@ anywhere on you terminal just type the below command
 matrix
 ```
 finally, enjoy you multicolor matirx.
+NOte- 
+If you want to uninstall the program you can type below command
+```
+delmatrix
+```
+And then you can completed with your uninstallation.
 
 ## How to install?
 You must download the project first
