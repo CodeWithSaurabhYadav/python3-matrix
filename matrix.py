@@ -182,6 +182,7 @@ def welcome():
     matrix_color()
 
 if __name__ == "__main__":
+    print ( red + "Author" + reset + '' +  red + '-' + reset + '' + red + "T3CHMYTH" + reset + '\n' )
     while True:
         try:
             welcome()
