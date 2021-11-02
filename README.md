@@ -4,8 +4,6 @@
 It can work on following platforms
 1. Termux
 2. Any linux os                                                                                                       
-3. Windows
-4. And on other platforms where python works...
 
 But only on the cli mode...
 
